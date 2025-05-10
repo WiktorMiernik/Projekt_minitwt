@@ -1,1 +1,11 @@
 # Projekt_minitwt
+
+Potrzebne zewnętrzne biblioteki python:
+
+pip install grpcio-tools
+
+Źródła:
+
+https://grpc.io/docs/languages/python/basics/
+
+https://github.com/grpc/grpc
